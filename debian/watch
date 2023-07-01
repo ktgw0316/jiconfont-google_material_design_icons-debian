@@ -1,0 +1,3 @@
+version=3
+opts="repack,compression=xz" \
+https://github.com/jIconFont/jiconfont-google_material_design_icons/tags .*/(?:.*?)([\d\.]+)\.tar\.gz

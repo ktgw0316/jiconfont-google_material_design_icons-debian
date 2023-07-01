@@ -1,0 +1,7 @@
+
+com.github.jiconfont jiconfont-google_material_design_icons jar s/.*/debian/ * *
+com.github.jiconfont jiconfont jar s/.*/debian/ * *
+org.apache.openjpa openjpa jar * * *
+org.codehaus.groovy groovy-eclipse-compiler jar * * *
+org.apache.maven.plugins maven-enforcer-plugin * * * *
+org.apache.rat apache-rat-plugin * * * *
